@@ -26,5 +26,7 @@ pip install numpy
 
 Correr el proyecto
 
-python ChiSqaure.py
+```
+python ChiSquare.py
+```
 
